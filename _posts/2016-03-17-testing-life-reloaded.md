@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Testing this new adventure
-datePublished: '2016-03-19T11:10:22.713Z'
-dateModified: '2016-03-19T11:01:48.170Z'
+datePublished: '2016-03-19T11:15:46.235Z'
+dateModified: '2016-03-19T11:15:42.100Z'
 title: Testing life reloaded
 author: []
 sourcePath: _posts/2016-03-17-testing-life-reloaded.md
