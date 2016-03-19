@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
-description: Another post
-datePublished: '2016-03-19T10:44:27.587Z'
-dateModified: '2016-03-19T10:44:10.179Z'
+description: 'Another postuntrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains'
+datePublished: '2016-03-19T10:57:10.658Z'
+dateModified: '2016-03-19T10:56:03.735Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-17-another-post.md
@@ -26,5 +26,7 @@ _type: Article
 
 On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains."
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d58ca48c-c3a9-482b-8067-297be2cd28da.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/83b1c4ad-786c-4ed6-a70b-a1c521682a47.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/805b13a8-65e9-403e-b6a6-0c51c8ccf7fc.jpg)
 
-Another post
+Another postuntrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains
