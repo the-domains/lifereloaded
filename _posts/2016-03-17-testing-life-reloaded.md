@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Testing this new adventure
-datePublished: '2016-03-19T10:57:48.266Z'
-dateModified: '2016-03-19T10:57:44.184Z'
+datePublished: '2016-03-19T11:10:22.713Z'
+dateModified: '2016-03-19T11:01:48.170Z'
 title: Testing life reloaded
 author: []
 sourcePath: _posts/2016-03-17-testing-life-reloaded.md
