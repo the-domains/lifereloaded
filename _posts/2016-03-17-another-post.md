@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'Another postuntrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains'
-datePublished: '2016-03-19T11:10:01.465Z'
-dateModified: '2016-03-19T10:59:21.327Z'
+datePublished: '2016-03-19T11:13:04.397Z'
+dateModified: '2016-03-19T11:12:51.634Z'
 title: Try
 author: []
 sourcePath: _posts/2016-03-17-another-post.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: another-post/index.html
-_type: Blurb
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/38003639-1332-41a7-8ed9-5460249210ad.jpg)
