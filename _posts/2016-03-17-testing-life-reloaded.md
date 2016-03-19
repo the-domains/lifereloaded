@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Testing this new adventure
-datePublished: '2016-03-19T10:45:37.628Z'
-dateModified: '2016-03-19T10:45:21.277Z'
+datePublished: '2016-03-19T10:49:35.234Z'
+dateModified: '2016-03-19T10:45:38.786Z'
 title: Testing life reloaded
 author: []
 sourcePath: _posts/2016-03-17-testing-life-reloaded.md
@@ -27,3 +27,4 @@ _type: WebPage
 Testing this new adventure
 
 untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6ea8173-8230-4c8c-a96c-687fa50b7a9e.jpg)
