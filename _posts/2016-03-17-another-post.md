@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Another postuntrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains'
-datePublished: '2016-03-22T10:23:24.009Z'
-dateModified: '2016-03-22T10:23:03.511Z'
-title: Try
+datePublished: '2016-03-22T13:04:02.894Z'
+dateModified: '2016-03-22T13:04:00.551Z'
+title: Try again
 author: []
 sourcePath: _posts/2016-03-17-another-post.md
 published: true
