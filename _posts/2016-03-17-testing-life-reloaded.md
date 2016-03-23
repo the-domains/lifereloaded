@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-22T13:05:25.489Z'
-dateModified: '2016-03-22T13:05:05.726Z'
+datePublished: '2016-03-23T06:31:56.571Z'
+dateModified: '2016-03-22T13:05:34.214Z'
 title: Testing life again
 author: []
 sourcePath: _posts/2016-03-17-testing-life-reloaded.md
